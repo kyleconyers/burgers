@@ -14,7 +14,7 @@ if(process.env.JAWSDB_URL){
 });
 };
 
-var 
+
 
 // Make connection.
 connection.connect(function(err) {
