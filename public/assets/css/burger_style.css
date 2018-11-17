@@ -1,0 +1,45 @@
+li {
+    padding: 5px;
+    margin: 5px;
+    background: white;
+    color: black;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  
+  body{
+    background-image: url(https://media.giphy.com/media/RkHJaMqEsUgy5AyUwE/giphy.gif
+    );
+    background-size: cover;
+    
+    
+  }
+  h1, .text{
+    font-size: 60px;
+    text-align: center;
+  }
+  div, h1, h2, .text {
+    color: white;
+  }
+
+  .devour-radio{
+    display: none;
+  }
+  .radio-display{
+    text-align: center;
+  }
+
+
+  
